@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/vzf806j/mocking-Bard.jpg",
+        "review": "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice.",
+        "totalPages": 324,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Classic", " Historical"],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/M9TbqSF/1984.jpg",
+        "review": "A chilling prophecy about the future. The book is a thrilling classic novel that presents a dystopian society.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", " Political"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/cDgY2Yn/great-Gatsby.jpg",
+        "review": "The novel chronicles an era that Fitzgerald himself dubbed the \"Jazz Age\". The story is of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Classic", " Romance"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 4,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/2NgDvCL/pride.jpg",
+        "review": "A delightful comedy of manners that also provides a keen insight into the issues of class, marriage, and morality in early 19th-century England.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Romance",
+        "tags": ["Classic", " Social Critique"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/z5Y50tQ/catcher.jpg",
+        "review": "A story about adolescent angst and alienation. Holden Caulfield's voice is both cynical and sensitive.",
+        "totalPages": 214,
+        "rating": 4.2,
+        "category": "Fiction",
+        "tags": ["Classic", " Coming-of-Age"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 6,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/X29c2xH/harry.png",
+        "review": "A magical start to the beloved series that has captivated readers of all ages. It's an adventure of a young wizard, Harry Potter.",
+        "totalPages": 309,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Magic", " Adventure"],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    }
+]
