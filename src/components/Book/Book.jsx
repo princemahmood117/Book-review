@@ -25,7 +25,6 @@ const Book = ({book}) => {
           <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">
             {book.bookName}
           </h3>
-
           <p>By: {book.author}</p>
 
           <div className="flex justify-around pt-3 space-x-2 text-sm  text-gray-400 dark:text-gray-600">
