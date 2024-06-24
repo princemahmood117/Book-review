@@ -8,7 +8,7 @@
         "totalPages": 324,
         "rating": 4.8,
         "category": "Fiction",
-        "tags": ["Classic", " Historical"],
+        "tags": ["Classic,", " Historical"],
         "publisher": "J.B. Lippincott & Co.",
         "yearOfPublishing": 1960
     },
@@ -21,7 +21,7 @@
         "totalPages": 328,
         "rating": 4.7,
         "category": "Science Fiction",
-        "tags": ["Dystopian", " Political"],
+        "tags": ["Dystopian,", " Political"],
         "publisher": "Secker & Warburg",
         "yearOfPublishing": 1949
     },
@@ -34,7 +34,7 @@
         "totalPages": 180,
         "rating": 4.5,
         "category": "Fiction",
-        "tags": ["Classic", " Romance"],
+        "tags": ["Classic,", " Romance"],
         "publisher": "Charles Scribner's Sons",
         "yearOfPublishing": 1925
     },
@@ -47,7 +47,7 @@
         "totalPages": 279,
         "rating": 4.6,
         "category": "Romance",
-        "tags": ["Classic", " Social Critique"],
+        "tags": ["Classic,", " Social Critique"],
         "publisher": "T. Egerton, Whitehall",
         "yearOfPublishing": 1813
     },
@@ -60,7 +60,7 @@
         "totalPages": 214,
         "rating": 4.2,
         "category": "Fiction",
-        "tags": ["Classic", " Coming-of-Age"],
+        "tags": ["Classic,", " Coming-of-Age"],
         "publisher": "Little, Brown and Company",
         "yearOfPublishing": 1951
     },
@@ -73,7 +73,7 @@
         "totalPages": 309,
         "rating": 4.9,
         "category": "Fantasy",
-        "tags": ["Magic", " Adventure"],
+        "tags": ["Magic,", " Adventure"],
         "publisher": "Bloomsbury",
         "yearOfPublishing": 1997
     }

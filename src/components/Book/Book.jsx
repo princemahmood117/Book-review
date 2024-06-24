@@ -1,7 +1,9 @@
+import { Link } from "react-router-dom";
+
 const Book = ({book}) => {
   return (
     <div className="border-2 rounded flex  hover:transition hover:scale-95 cursor-pointer">
-      <article>
+      <Link to={`/book/${book.bookId}`}>
         <a className="relative left-[50%]"
           rel="noopener noreferrer"
           href="#"
@@ -32,7 +34,7 @@ const Book = ({book}) => {
             <span className="ml-12">{book.rating} </span>
           </div>
         </div>
-      </article>
+      </Link>
       
     </div>
   );
